@@ -1,9 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "André Miani",
-		"email": "andremiani@gmail.com"
-	},
+	"author": "André Miani",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
